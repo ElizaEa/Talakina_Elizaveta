@@ -4,6 +4,7 @@
 
 | Название проекта | Описание проекта |
 |:-----------------|:-----------------|
+| [**Персонализации предложения постоянным клиентам**](https://github.com/ElizaEa/Talakina_Elizaveta/blob/main/personal_offers.ipynb) |  |
 | [**Выбор локации для скважины**](https://github.com/ElizaEa/Talakina_Elizaveta/blob/main/oil_well.ipynb) |  |
 | [**Возраст покупателей**](https://github.com/ElizaEa/Talakina_Elizaveta/blob/main/yp_age.ipynb) |  |
 | [**Определение стоимости автомобилей**](https://github.com/ElizaEa/Talakina_Elizaveta/blob/main/yp_avto.ipynb) |  |
